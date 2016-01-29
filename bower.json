@@ -1,0 +1,36 @@
+{
+  "name": "Marionette-Admin-Lte",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "requirejs",
+    "boilerplate",
+    "marionettejs",
+    "admin-lte"
+  ],
+  "authors": [
+    "Juan Gauna"
+  ],
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "public/admin/js/libs",
+    "node_modules"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.11",
+    "text": "~2.0.10",
+    "lodash": "~3.9.0",
+    "backbone": "~1.1.2",
+    "Backbone.validateAll": "*",
+    "marionette": "~2.4.1",
+    "admin-lte": "~2.3.0",
+    "highcharts-release": "~4.1.8",
+    "almond": "~0.3.1",
+    "r.js": "~2.1.11",
+    "backbone.eventbinder": "~1.0.2",
+    "bootstrap-rtl": "~3.3.4"
+  }
+}
